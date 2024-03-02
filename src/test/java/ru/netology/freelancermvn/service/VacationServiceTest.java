@@ -1,5 +1,6 @@
+package ru.netology.freelancermvn.service;
 import org.junit.jupiter.api.Test;
-import ru.netology.freelancermvn.service.VacationService;
+//import ru.netology.freelancermvn.service.VacationService;
 
 public class VacationServiceTest {
     @Test
